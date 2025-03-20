@@ -248,7 +248,7 @@ img{
     margin: 0 var(--mb-1);
 }
 .about__social-icon:hover{
-    color: var(--first-color);
+    color: var(--white-color);
 }
 
 /* ===== SKILLS =====*/
