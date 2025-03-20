@@ -76,5 +76,5 @@ sr.reveal('.contact__input', {delay: 400})
 sr.reveal('.contact__button', {delay: 600})
 
     document.querySelector(".btn").addEventListener("click", function () {
-        window.open("md.pdf"); 
+        window.open("Nafeel.pdf"); 
     });
