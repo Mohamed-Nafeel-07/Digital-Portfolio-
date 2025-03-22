@@ -78,3 +78,4 @@ sr.reveal('.contact__button', {delay: 600})
     document.querySelector(".btn").addEventListener("click", function () {
         window.open("Nafeel.pdf"); 
     });
+
